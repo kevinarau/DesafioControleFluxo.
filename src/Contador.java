@@ -1,4 +1,5 @@
 
+
 import Contar.ParametrosInvalidosException;
 
 import java.util.Scanner;
@@ -35,3 +36,36 @@ public class Contador {
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
