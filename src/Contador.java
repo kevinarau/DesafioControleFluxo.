@@ -17,11 +17,7 @@ public class Contador {
             contar(parametroUm, parametroDois);
 
         } catch (ParametrosInvalidosException e) {
-            System.out.println("Erro: " + e.getMessage());
-        } catch (Exception e) {
-            System.out.println("Erro inesperado: " + e.getMessage());
-        } finally {
-            terminal.close();
+            System.out.println(" O segundo parâmetro deve ser maior que o primeiro");
         }
     }
 
